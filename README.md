@@ -14,6 +14,18 @@ Distribuição Yntelli de uma base MIT existente. **Backend, contratos e hooks d
 
 **DeepSeek não é integrado nativamente**; exigirá adaptador de runtime/agentes.
 
+## Nova interface operacional (desenvolvimento)
+
+A página /office.html é a primeira implementação da interface 3D Yntelli Office, em branch isolada. Ela não substitui o Habblaud original em /.
+
+- Visão geral e monitoramento de agentes Claude/Codex usando o OfficeStore e SSE existentes.
+- Escritório 3D sob demanda, seis setores e planta leve para dispositivos sem WebGL.
+- Margens, Central API, Comercial e Operações com estados honestos de integração. **Nenhuma consulta bancária real ou tarifável foi ligada nesta etapa.**
+- Contratos de segurança e integrações planejadas em [docs/office-v1.md](docs/office-v1.md).
+- Missões de sete chats do Projeto ChatGPT Escritório em [docs/chat-missions/](docs/chat-missions/README.md).
+
+O protótipo foi testado em modo demonstração e deve ser homologado com o backend e hardware reais antes de qualquer deploy.
+
 ## Documentação para criar o frontend
 
 - [01 Arquitetura e limites](docs/architecture/01-ARCHITECTURE.md)
