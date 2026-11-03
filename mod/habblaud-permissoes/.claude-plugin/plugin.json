@@ -1,0 +1,18 @@
+{
+  "name": "habblaud-permissoes",
+  "displayName": "Yntelli Office: permissões pelo escritório",
+  "version": "1.0.3",
+  "description": "Hook PermissionRequest que deixa aprovar ou recusar pelo Yntelli Office os pedidos de permissão do Claude Code e responder as perguntas do AskUserQuestion; o diálogo continua no terminal e vale o que você responder primeiro.",
+  "author": {
+    "name": "Márcio Junior",
+    "url": "https://github.com/marmottajr"
+  },
+  "homepage": "https://github.com/yasminmelo83374/yntelli-office#readme",
+  "repository": "https://github.com/yasminmelo83374/yntelli-office",
+  "license": "MIT",
+  "keywords": [
+    "habblaud",
+    "permissoes",
+    "hooks"
+  ]
+}

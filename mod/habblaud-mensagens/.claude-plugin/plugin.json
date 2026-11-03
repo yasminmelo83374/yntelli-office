@@ -1,0 +1,19 @@
+{
+  "name": "habblaud-mensagens",
+  "displayName": "Yntelli Office: mensagens pelo escritório",
+  "version": "1.0.3",
+  "description": "Leva para a sessão do Claude Code as mensagens que você digita no Yntelli Office (painel do agente ou terminal), como se você as tivesse digitado no terminal.",
+  "author": {
+    "name": "Márcio Junior",
+    "url": "https://github.com/marmottajr"
+  },
+  "homepage": "https://github.com/yasminmelo83374/yntelli-office#readme",
+  "repository": "https://github.com/yasminmelo83374/yntelli-office",
+  "license": "MIT",
+  "keywords": [
+    "habblaud",
+    "escritorio",
+    "mensagens",
+    "prompt"
+  ]
+}
